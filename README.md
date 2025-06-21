@@ -49,3 +49,25 @@ On Mac Mini M4, `MLX DeepDanbooru` inference Speed:
 ```
 1.7 seconds per image
 ```
+
+## Bench: 351 images, 720x1280 and 540x720:
+
+In Windows 11, Nvidia RTX 4070 Ti, CUDA+Pytorch:
+
+```
+SPEED: 0.3 seconds per image
+Power Consumption: 260 ~ 300 Watt
+```
+
+In Mac mini M4:
+
+```
+SPEED: 1.68 seconds per image 
+Power Consumption: 8 ~ 12 Watt
+```
+
+
+
+
+
+
