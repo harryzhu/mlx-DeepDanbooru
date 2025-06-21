@@ -41,14 +41,25 @@ git clone https://github.com/harryzhu/mlxDeepDanbooru.git
 python infer.py
 ```
 
-## Performance 
+
+## Performance
 
 In the `example` folder, 1024x1024 pixl, 
-On Mac Mini M4, `MLX DeepDanbooru` inference Speed:
+
+On Mac Mini M4, `MLX DeepDanBooru Model` inference Speed:
 
 ```
 1.7 seconds per image
 ```
+
+On Mac Mini M4, __MPS + Pytorch__ inference Speed: `0.8 seconds per image` 
+
+On Mac Mini M4, CPU + Pytorch inference Speed: `2.5 seconds per image`
+
+## CURRENTLY  
+
+the speed of __MPS + Pytorch__ > MLX.
+
 
 ## Bench: 351 images, 720x1280 and 540x720:
 
@@ -59,12 +70,13 @@ SPEED: 0.3 seconds per image
 Power Consumption: 260 ~ 300 Watt
 ```
 
-In Mac mini M4:
+In Mac mini M4, `mlxDeepDanBooru`:
 
 ```
 SPEED: 1.68 seconds per image 
 Power Consumption: 8 ~ 12 Watt
 ```
+
 
 
 
