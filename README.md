@@ -7,7 +7,7 @@ Image-to-Text, CLIP by using [DeepDanBooru Model](https://github.com/KichangKim/
 
 ## MLX Model 
 
-This MLX DeepDanBooru Model implementation is from a PyTorch implementation of [AUTOMATIC1111/TorchDeepDanbooru](https://github.com/AUTOMATIC1111/TorchDeepDanbooru)
+This MLX DeepDanBooru Model implementation is inspired by a PyTorch implementation of [AUTOMATIC1111/TorchDeepDanbooru](https://github.com/AUTOMATIC1111/TorchDeepDanbooru)
 
 ## Installation
 
