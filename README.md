@@ -41,7 +41,7 @@ git clone https://github.com/harryzhu/mlxDeepDanbooru.git
 python infer.py
 ```
 
-## Performance
+## Performance 
 
 In the `example` folder, 1024x1024 pixl, 
 On Mac Mini M4, `MLX DeepDanbooru` inference Speed:
