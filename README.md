@@ -1,13 +1,16 @@
 # mlxDeepDanbooru
-Pure MLX implementation of DeepDanbooru neural network for Apple Silicon Chips: M1, M2, M3, M4
+
+Pure MLX implementation of DeepDanbooru Neural Network for __Apple Silicon Chips__: M1, M2, M3, M4; 
+`mlxDeepDanBooru` is available for: MacBook Pro / Air, Mac mini, iMac.
 
 ## Usage
 
-Image-to-Text, CLIP by using [DeepDanBooru Model](https://github.com/KichangKim/DeepDanbooru)
+Image-to-Text, captioning, CLIP by using [DeepDanBooru Model](https://github.com/KichangKim/DeepDanbooru) on Apple Devices.
 
-## MLX Model 
+## MLX DeepDanBooru Model 
 
 This MLX DeepDanBooru Model implementation is inspired by a PyTorch implementation of [AUTOMATIC1111/TorchDeepDanbooru](https://github.com/AUTOMATIC1111/TorchDeepDanbooru)
+
 
 ## Installation
 
