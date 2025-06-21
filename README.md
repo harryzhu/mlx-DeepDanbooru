@@ -41,7 +41,7 @@ python infer.py
 ## Performance
 
 In the `example` folder, 1024x1024 pixl, 
-On Mac Mini M4, MLX inference Speed:
+On Mac Mini M4, `MLX DeepDanbooru` inference Speed:
 
 ```
 1.7 seconds per image
