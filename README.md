@@ -1,5 +1,5 @@
 # mlxDeepDanbooru
-Pure MLX implementation of DeepDanbooru for Apple Silicon Chips: M1, M2, M3, M4
+Pure MLX implementation of DeepDanbooru neural network for Apple Silicon Chips: M1, M2, M3, M4
 
 ## Usage
 
@@ -26,9 +26,11 @@ git clone https://github.com/harryzhu/mlxDeepDanbooru.git
 ```
 
 **Download MLX models and tags**:
- Go to `https://huggingface.co/hazhu/mlxDeepDanbooru` then explore `models` floder,
- and download `model-resnet_custom_v3_mlx.npz` and `tags-resnet_custom_v3_mlx.npy`
- and put them into models folder.
+
+ 1) Go to `https://huggingface.co/hazhu/mlxDeepDanbooru` then 
+ 2) explore `models` folder,
+ 3) download `model-resnet_custom_v3_mlx.npz` and `tags-resnet_custom_v3_mlx.npy`
+ 4) and put them into `models` folder.
 
 ## Inference
 
