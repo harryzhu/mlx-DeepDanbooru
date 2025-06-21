@@ -1,6 +1,14 @@
 # mlxDeepDanbooru
 Pure MLX implementation of DeepDanbooru for Apple Silicon Chips: M1, M2, M3, M4
 
+## Usage
+
+Image-to-Text, CLIP by using [DeepDanBooru Model](https://github.com/KichangKim/DeepDanbooru)
+
+## MLX Model 
+
+This MLX DeepDanBooru Model implementation is from a PyTorch implementation of [AUTOMATIC1111/TorchDeepDanbooru](https://github.com/AUTOMATIC1111/TorchDeepDanbooru)
+
 ## Installation
 
 MLX is available on [PyPI](https://pypi.org/project/mlx/). To install the Python API, run:
