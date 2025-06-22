@@ -14,6 +14,14 @@ This MLX DeepDanBooru Model implementation is inspired by a PyTorch implementati
 
 ## Installation
 
+```
+conda create -n mlx026 python=3.12
+conda activate mlx026
+#
+pip install numpy
+pip install pillow
+```
+
 MLX is available on [PyPI](https://pypi.org/project/mlx/). To install the Python API, run:
 
 **With `pip`**:
