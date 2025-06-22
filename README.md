@@ -60,6 +60,7 @@ On Mac Mini M4, CPU + Pytorch inference Speed: `2.5 seconds per image`
 
 the speed of __MPS + Pytorch__ > MLX.
 
+![Performance Bar Chart]("example/mlx-performance.png")
 
 ## Bench: 351 images, 720x1280 and 540x720:
 
