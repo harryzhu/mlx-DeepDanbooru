@@ -52,7 +52,7 @@ python infer.py
 
 ## Performance
 
-In the `example` folder, 1024x1024 pixl, 
+In the `example` folder, 1024x1024 pixel, 
 
 On Mac Mini M4, `MLX DeepDanBooru Model` inference Speed:
 
