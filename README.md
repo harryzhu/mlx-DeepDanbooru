@@ -1,7 +1,7 @@
-# mlxDeepDanbooru
+# mlx-DeepDanbooru
 
 Pure MLX implementation of DeepDanbooru Neural Network for __Apple Silicon Chips__: M1, M2, M3, M4; 
-`mlxDeepDanBooru` is available for: MacBook Pro / Air, Mac mini, iMac.
+`mlx-DeepDanBooru` is available for: MacBook Pro / Air, Mac mini, iMac.
 
 ## Usage
 
@@ -9,7 +9,7 @@ Image-to-Text, captioning, CLIP by using [DeepDanBooru Model](https://github.com
 
 ## MLX DeepDanBooru Model 
 
-This MLX DeepDanBooru Model implementation is inspired by a PyTorch implementation of [AUTOMATIC1111/TorchDeepDanbooru](https://github.com/AUTOMATIC1111/TorchDeepDanbooru)
+This `mlx-DeepDanBooru` Model implementation is inspired by a PyTorch implementation of [AUTOMATIC1111/TorchDeepDanbooru](https://github.com/AUTOMATIC1111/TorchDeepDanbooru)
 
 
 ## Installation
@@ -33,12 +33,12 @@ pip install mlx
 **Clone this repo**:
 
 ```
-git clone https://github.com/harryzhu/mlxDeepDanbooru.git
+git clone https://github.com/harryzhu/mlx-DeepDanbooru.git
 ```
 
 **Download MLX models and tags**:
 
- 1) Go to `https://huggingface.co/hazhu/mlxDeepDanbooru` then 
+ 1) Go to `https://huggingface.co/hazhu/mlx-DeepDanbooru` then 
  2) explore `models` folder,
  3) download `model-resnet_custom_v3_mlx.npz` and `tags-resnet_custom_v3_mlx.npy`
  4) and put them into `models` folder.
@@ -79,7 +79,7 @@ SPEED: 0.3 seconds per image
 Power Consumption: 260 ~ 300 Watt
 ```
 
-In Mac mini M4, `mlxDeepDanBooru`:
+In Mac mini M4, `mlx-DeepDanBooru`:
 
 ```
 SPEED: 1.68 seconds per image 
