@@ -1,6 +1,6 @@
 # mlx-DeepDanbooru
 
-Pure MLX implementation of DeepDanbooru Neural Network for __Apple Silicon Chips__: M1, M2, M3, M4; 
+Pure Apple's MLX implementation of DeepDanbooru Neural Network for __Apple Silicon Chips__: M1, M2, M3, M4; 
 `mlx-DeepDanBooru` is available for: MacBook Pro / Air, Mac mini, iMac.
 
 ## Usage
