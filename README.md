@@ -86,6 +86,11 @@ SPEED: 1.68 seconds per image
 Power Consumption: 8 ~ 12 Watt
 ```
 
+In Mac mini M4, `mlx-DeepDanBooru` with multiprocessing, i.e.: run `infer_multiprocessing.py`:
+
+```
+SPEED: 0.42 seconds per image 
+```
 
 
 
